@@ -10,6 +10,4 @@ Require Node.js v16 & Discord.js v12
 
 **Author:** `ItsMeZeto 🇵🇸✊🏻 [DC: zetoboymaccalan_01]`
 
-**Live in:** `Indonesia - East Java`
-
 **I Learn Programming Language:** `Javascript, Python [Currently studying it and only understand a little]`
